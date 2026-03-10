@@ -7,17 +7,26 @@ Real-time price oracle for DeFi applications. Simple, reliable, and affordable.
 - **Team**: /month - 500,000 requests  
 - **Enterprise**: /month - 2,000,000 requests
 
-## 🚀 Quick Start
+## 🚀 How to Get Started
 
-### 1. Get Your API Key
-Contact me to purchase access:
-- **Email**: your-email@example.com
-- **Telegram**: @your-telegram-username
-- **WeChat**: your-wechat-id
+### 1. Make Payment
+Send payment to our USDT (TRC20) wallet address:
 
-### 2. Make API Requests{"detail":"Internal server error"}
+**Payment Amounts:**
+- Personal Plan: 49 USDT
+- Team Plan: 99 USDT  
+- Enterprise Plan: 199 USDT
 
-### 3. Example Response
+### 2. Contact Us
+After payment, contact us with:
+- Transaction hash
+- Your email address
+- Desired plan type
+
+### 3. Get Your API Key
+We'll send you a unique API key within 24 hours.
+
+### 4. Start Using the Service{"detail":"Invalid API key"}
 
 ## 🔗 Supported Symbols
 - BTC, ETH, LINK, BNB, SOL, ADA, XRP, DOGE
@@ -28,6 +37,6 @@ Contact me to purchase access:
 - **Accuracy**: ±0.1%
 
 ## 🤝 Contact
-For pricing, support, or custom solutions, contact me directly!
+For pricing, support, or custom solutions, contact us after making payment!
 
 **Service is live and ready to use!**
