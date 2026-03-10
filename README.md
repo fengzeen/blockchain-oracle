@@ -18,13 +18,16 @@ Send payment to our USDT (TRC20) wallet address:
 - Enterprise Plan: 199 USDT
 
 ### 2. Contact Us
-After payment, contact us with:
+After payment, please contact us at:
+**Email**: fengq3611@gmail.com
+
+Include in your email:
 - Transaction hash
-- Your email address
-- Desired plan type
+- Your preferred plan type
+- Any special requirements
 
 ### 3. Get Your API Key
-We'll send you a unique API key within 24 hours.
+We'll send you a unique API key within 24 hours to your email.
 
 ### 4. Start Using the Service{"detail":"Invalid API key"}
 
@@ -36,7 +39,7 @@ We'll send you a unique API key within 24 hours.
 - **Latency**: < 500ms
 - **Accuracy**: ±0.1%
 
-## 🤝 Contact
-For pricing, support, or custom solutions, contact us after making payment!
+## 🤝 Support
+For technical support, pricing questions, or custom solutions, email us at **fengq3611@gmail.com**
 
 **Service is live and ready to use!**
